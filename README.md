@@ -1,4 +1,4 @@
-# GBM(Geometric Brownian Motion),MCMC(Markov chain Monte carlo Simulation),LRT(Likely Ratio Test)를 활용한 regime 분석 (Done)
+# GBM(Geometric Brownian Motion),MCMC(Markov chain Monte carlo Simulation),LRT(Likelihood Ratio Test)를 활용한 regime 분석 (Done)
 ---
 
 ## 목차 (Table of Contents)
